@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from random import randint
 def main():
     give_feedback()
@@ -20,3 +21,9 @@ def give_feedback():
 if __name__ == "__main__":
     main()
 
+=======
+import random
+
+ x= random.randint(1,100)
+ 
+>>>>>>> b20383682e841aa3b0fc11d259a069193598255c
